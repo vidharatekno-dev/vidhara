@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/google-users.json
+data/google-users.json.tmp
+npm-debug.log*
+squirrel.toml
+resize*.tmp.cjs
+.vercel
+.env*

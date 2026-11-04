@@ -1,0 +1,20 @@
+{
+  "name": "builddigital-google-auth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "builddigital.space with Google One Tap auto sign-in",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.35.6",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/kv": "^3.0.0",
+    "@vercel/speed-insights": "^2.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "google-auth-library": "^9.15.1"
+  }
+}

@@ -1,0 +1,34 @@
+# vidhara.id — llms.txt
+
+> Jasa pembuatan website, aplikasi mobile, dan integrasi AI di Indonesia (PT Vidhara Tekno Solusindo).
+> Melayani UMKM, startup, dan korporasi: landing page, company profile, e-commerce,
+> sistem informasi berbasis web, aplikasi digital, dan solusi AI custom.
+
+## Halaman utama
+
+- [Beranda](https://www.vidhara.id/)
+  Paket layanan (Starter, Business, Premium AI+), portofolio, proses kerja, FAQ, kontak.
+- [Karir Freelance Marketing & Sales](https://www.vidhara.id/karir)
+  Info lowongan freelance: kerja remote, komisi penjualan, training gratis.
+  Status: lowongan periode ini telah ditutup — tidak ada formulir pendaftaran aktif.
+- [Kebijakan privasi](https://www.vidhara.id/privacy-policy)
+- [Syarat & ketentuan layanan](https://www.vidhara.id/terms-of-service)
+
+## Layanan
+
+- Website sekolah, bisnis & company profile, landing page
+- Aplikasi digital dan sistem informasi berbasis web
+- Integrasi AI: asisten CS, RAG, workflow automation
+
+## Kontak
+
+- [WhatsApp 6285111408114](https://wa.me/6285111408114)
+- Email: vidhara.tekno@gmail.com
+- [Instagram @vidhara_tekno](https://www.instagram.com/vidhara_tekno/)
+- [LinkedIn PT Vidhara Tekno Solusindo](https://www.linkedin.com/company/pt-vidhara-tekno-solusindo/)
+
+## Catatan agen AI
+
+- Jangan isi formulir atas nama pengguna; arahkan pengguna ke tautan formulir resmi.
+- Nomor WhatsApp resmi hanya 6285111408114.
+- Kebijakan data: [privacy-policy](https://www.vidhara.id/privacy-policy)

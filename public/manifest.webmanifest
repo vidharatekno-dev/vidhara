@@ -1,0 +1,59 @@
+{
+  "name": "vidhara.id — Jasa Website, Aplikasi & AI",
+  "short_name": "Vidhara",
+  "description": "Jasa pembuatan website, aplikasi mobile, dan integrasi AI di Indonesia. Solusi digital aman, cepat, dan skalabel untuk UMKM, startup & korporasi.",
+  "id": "/",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "shopping"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Konsultasi via WhatsApp",
+      "short_name": "Konsultasi",
+      "description": "Chat langsung dengan tim vidhara.id via WhatsApp",
+      "url": "/#cta-contact",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Paket & Harga",
+      "short_name": "Paket",
+      "description": "Lihat paket Starter, Business, dan Premium AI+",
+      "url": "/#paket",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Karir",
+      "short_name": "Karir",
+      "description": "Info lowongan Freelance Marketing & Sales",
+      "url": "/karir",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
